@@ -1,4 +1,4 @@
-# l2tsa1-basic-typescript-imam-hossain1
+# this is my first typescript assignment of Apollo-Level2-Web-development
 
 1.What is TypeScript, and how is it different from JavaScript?
 
