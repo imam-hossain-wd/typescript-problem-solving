@@ -1,0 +1,25 @@
+{
+  "name": "level-2-assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem_4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only problem_4.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-imam-hossain1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-imam-hossain1/issues"
+  },
+  "homepage": "https://github.com/Programming-Hero-Web-Course4/l2tsa1-basic-typescript-imam-hossain1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node-dev": "^2.0.0"
+  }
+}
